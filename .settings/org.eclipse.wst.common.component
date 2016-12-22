@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
     <wb-module deploy-name="testweb">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
@@ -9,3 +10,10 @@
         <property name="java-output-path" value="/testweb/build/classes"/>
     </wb-module>
 </project-modules>
+=======
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="testwork">
+        <wb-resource deploy-path="/" source-path="/src"/>
+    </wb-module>
+</project-modules>
+>>>>>>> 253333e5e02afabb4b3e02afda94301a37e4f273
